@@ -1,0 +1,10 @@
+langchain
+langchain-core
+
+huggingface-hub
+langchain-huggingface
+
+langchain-google-genai
+google-generativeai
+
+python-dotenv
